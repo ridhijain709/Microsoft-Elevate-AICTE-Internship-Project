@@ -36,6 +36,6 @@ I engineered an interactive **Business Intelligence Suite** that features:
 3. Use **Ctrl + Click** on the top navigation buttons to switch views.
 
 ---
-**Presented by:** [Your Name]  
+**Presented by:** Ridhi Jain
 **Internship:** Microsoft Elevate AICTE Project  
-**Contact:** [Your Email/LinkedIn]
+**Contact: ridhijain608@gmail.com
